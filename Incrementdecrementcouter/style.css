@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    font-family: "Inconsolata ",sans-serif;
+    background:rgb(51, 51, 153);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+    height: 100vh;
+    gap: 450px;
+}
+.counter{   
+
+    font-family: "Helvetica Neue",Helvetica,Arial;
+    color: rgb(216, 128, 13);
+    font-size: 200px;
+
+}
+
+span{
+    margin-top:10px;
+    font-size: 50px;
+}
